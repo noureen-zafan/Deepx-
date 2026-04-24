@@ -1,0 +1,17 @@
+{
+  "whitespace_percentiles": {
+    "50": 21,
+    "75": 38,
+    "90": 64,
+    "95": 91,
+    "99": 163,
+    "tok_50": 30,
+    "tok_75": 50,
+    "tok_90": 94,
+    "tok_95": 124,
+    "tok_99": 246,
+    "recommended_max_length_tokens": 124
+  },
+  "recommended_max_length": 91,
+  "total_train_rows": 3113
+}
